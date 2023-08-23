@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../bo-java-23-1-rickandmorty-gallery.iml" filepath="$PROJECT_DIR$/../bo-java-23-1-rickandmorty-gallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bo-java-23-1-rickandmorty-gallery.iml" filepath="$PROJECT_DIR$/bo-java-23-1-rickandmorty-gallery.iml" />
     </modules>
   </component>
 </project>
