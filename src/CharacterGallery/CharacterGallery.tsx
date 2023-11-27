@@ -10,7 +10,7 @@ type GalleryProps = {
 
 export default function CharacterGallery(props: GalleryProps) {
 
-    const [filter, setFilter] = useState("")
+    const [filter] = useState("")
 
     const filteredList = props.characterList.filter(({name}) =>
         name.toLowerCase().includes(filter.toLowerCase()))
